@@ -1,7 +1,7 @@
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 import { Fade, Zoom } from "react-awesome-reveal";
 import "./Home.css";
-import Profile from '../../assets/vijay.jpg';
+import Profile from '../../assets/AI image2.jpg';
 
 const Home = () => {
   const [text] = useTypewriter({
